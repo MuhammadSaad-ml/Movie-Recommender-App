@@ -1,8 +1,8 @@
 <img src="https://img.shields.io/badge/Python 3.9-gold"><img src="https://img.shields.io/badge/Build_With-Python-purple"><img src="https://img.shields.io/badge/Streamlit-orange"><img src="https://img.shields.io/badge/Movie-Recommender-voilet"><img src="https://img.shields.io/badge/VsCode-pink"><img src="https://img.shields.io/badge/Machine Learning-yellow"><img src="https://img.shields.io/badge/Webapp-silver"><img src="https://img.shields.io/badge/Data Science-blue"><img src="https://img.shields.io/badge/Big Data-brown">
 
 # Movie Recommendation App
-<img src="https://i.imgur.com/gFtp5aT.png">
-<img src="https://i.imgur.com/9SWNTsX.png">
+<img src="https://i.imgur.com/NSF23by.png">
+<img src="https://i.imgur.com/fnSfMjd.png">
 
 
 
@@ -18,7 +18,7 @@ This is a Movie Recommendation App built using Streamlit. The app suggests simil
 ## Installation
 1. **Clone the repository:**
 <pre>
-git clone ///
+git clone https://github.com/MuhammadSaad-ml/Movie-Recommender-App
 </pre>
 2. **Install the required dependencies**
    <a href="">requirements.txt</a>
